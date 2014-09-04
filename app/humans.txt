@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Teeragit Hare -- Designer, Front-End -- teeragit
+	Monchai Trakulpoochai -- Developer, Back-End -- i3gu
+
+# THANKS
+
+    Jack Thakorn
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr, Typekit, Fontello
